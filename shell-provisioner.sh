@@ -50,4 +50,4 @@ sudo apt-get install -y g++-arm-linux-gnueabi
 
 # GUI
 sudo apt-get install -y xfce4
-sudo sed -i 's/allowed_users=.*$/allowed_users=anybody/' /etc/X11/Xwrapper.config
+
